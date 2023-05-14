@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150480381367",
+    "project_id": "phonechat-d1718",
+    "storage_bucket": "phonechat-d1718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150480381367:android:5f9c0c0dd0409d3fa87432",
+        "android_client_info": {
+          "package_name": "com.example.phonechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150480381367-vce8krqa13kuvogd50ufqjsu604m1k55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwlEQ-lJD29yy7Qhp-wabAlw2FRzWXXc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150480381367-vce8krqa13kuvogd50ufqjsu604m1k55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
