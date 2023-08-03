@@ -23,6 +23,7 @@ public class signupactivity extends AppCompatActivity {
 
     ActivitySignupactivityBinding binding;
     private FirebaseAuth auth;
+
     FirebaseDatabase database;
     ProgressDialog progressDialog;
     @Override
