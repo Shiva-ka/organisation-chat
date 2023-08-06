@@ -43,6 +43,7 @@ FirebaseAuth auth;
                 Toast.makeText(MainActivity.this, ""+value, Toast.LENGTH_SHORT).show();
             }
 
+
             @Override
             public void onCancelled(@NonNull DatabaseError error) {
 
@@ -76,5 +77,6 @@ FirebaseAuth auth;
                 break;
         }
         return super.onOptionsItemSelected(item);
+
     }
 }

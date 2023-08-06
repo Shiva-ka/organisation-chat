@@ -43,6 +43,7 @@ public class userAdapter  extends  RecyclerView.Adapter<userAdapter.ViewHolder>{
 
      View view = LayoutInflater.from(context).inflate(R.layout.sample_show_user,parent,false);
         return new ViewHolder(view);
+
     }
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
@@ -107,10 +108,6 @@ public class userAdapter  extends  RecyclerView.Adapter<userAdapter.ViewHolder>{
           image = itemView.findViewById(R.id.profileimage);
           userName= itemView.findViewById(R.id.Usernamelist);
             lastMessage = itemView.findViewById(R.id.Lastmessage);
-
-
-
-
         }
     }
 }
